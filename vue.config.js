@@ -1,3 +1,4 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production' ? '/netfilx_2/' : '/'
+    publicPath: process.env.NODE_ENV === 'production' ? '/netflix_2/' : '/',
   };
+  
